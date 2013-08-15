@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiksCube", "RubiksCube\RubiksCube\RubiksCube.csproj", "{45576312-9569-4C7A-8146-917A445A1CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiksCubeContent", "RubiksCube\RubiksCubeContent\RubiksCubeContent.contentproj", "{8207BF89-246A-4022-9DB8-5266AE6AD13E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45576312-9569-4C7A-8146-917A445A1CE3}.Debug|x86.ActiveCfg = Debug|x86
+		{45576312-9569-4C7A-8146-917A445A1CE3}.Debug|x86.Build.0 = Debug|x86
+		{45576312-9569-4C7A-8146-917A445A1CE3}.Release|x86.ActiveCfg = Release|x86
+		{45576312-9569-4C7A-8146-917A445A1CE3}.Release|x86.Build.0 = Release|x86
+		{8207BF89-246A-4022-9DB8-5266AE6AD13E}.Debug|x86.ActiveCfg = Debug|x86
+		{8207BF89-246A-4022-9DB8-5266AE6AD13E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
